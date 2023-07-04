@@ -1,0 +1,10 @@
+   0 date > hw_3.txt
+   1 cat hw_3.txt
+   2 df -h / >> hw_3.txt
+   3 cat hw_3.txt
+   4 history | tail -n 5 >> hw_3.txt
+   5 cat hw_3.txt
+   6 grep "vendor" /proc/cpuinfo | sort >> hw_3.txt
+   7 cat hw_3.txt
+   8 nano hw_3.txt
+   9 history >> homework3.txt
